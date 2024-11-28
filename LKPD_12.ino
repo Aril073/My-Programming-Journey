@@ -1,3 +1,5 @@
+//Deni aril
+//XI TAV 1
 #include"DHT.h"
 #define DHTPIN 32
 #define DHTTYPE DHT11
